@@ -1,5 +1,6 @@
+Develop Word-Counter using REACTJS
+Understand Functional Base Component and React Hooks
 # Getting Started with Create React App
-
 ![word-Counter](https://user-images.githubusercontent.com/97945337/214250658-8a64a1e2-e9e6-4f81-82be-36cba14c4d71.PNG)
 ![Word-Counter_darkMode](https://user-images.githubusercontent.com/97945337/214250998-36787ae7-3b86-4637-a0e7-6cf12cea682b.PNG)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
